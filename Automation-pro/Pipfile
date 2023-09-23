@@ -10,6 +10,9 @@ urllib3 = "*"
 mechanicalsoup = "*"
 pandas = "*"
 numpy = "*"
+pypdf2 = "*"
+speechrecognition = "*"
+webscraping = "*"
 
 [dev-packages]
 
